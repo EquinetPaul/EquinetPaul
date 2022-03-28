@@ -34,7 +34,13 @@
 <h4>I work on</h4>
 <p align="left">
   <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" alt="jetbrains" width="40" height="40"/> </a> 
- <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
+<p align="left">
+<h4>I work with</h4>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="msteams" width="40" height="40"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="discord" width="40" height="40"/> </a> 
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/office-1.svg" alt="linux" width="40" height="40"/> </a> 
+           <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/google-suite-logo.svg" alt="linux" width="40" height="40"/> </a> 
+ </p>
