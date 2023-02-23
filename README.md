@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/paul-equinet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-equinet" height="30" width="30" /></a>
 </p>
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Pinned Skills</h4>
 <p align="left">
@@ -44,3 +44,4 @@
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/office-1.svg" alt="linux" width="30" height="30"/> </a> 
            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/google-suite-logo.svg" alt="linux" width="30" height="30"/> </a> 
  </p>
+!-->
