@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h3 align="center">Aspiring Data Scientist and looking for a PhD</h3>
 
 - 🌱 I’m currently learning **High Performance Data Analytics**
 
