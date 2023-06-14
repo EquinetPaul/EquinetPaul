@@ -2,8 +2,6 @@
 <h3 align="center">Aspiring Data Scientist</h3>
 <h4 align="center">MSc in Applied Mathematics: High Performance Data Analytics</h4>
 
-- 🌱 I’m currently learning **High Performance Data Analytics**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paul-equinet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-equinet" height="30" width="30" /></a>
