@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
-<h4 align="center">MSc in Applied Mathematics: High Performance Data Analytics</h4>
+<h3 align="center">Engineer in Applied Mathematics</h3>
+<h4 align="center">High Performance Data Analytics</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
